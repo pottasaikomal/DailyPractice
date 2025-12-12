@@ -1,0 +1,6 @@
+npm init -y -> create package.json and package-lock.json
+npm i prisma --save-dev
+npm i @prisma/client
+
+npm = node package manager
+npx = node package execute
